@@ -24,7 +24,7 @@
 
 Finalmente descubriste mi perfil de Github. <br>
 Eres libre de clonar/bifurcar proyectos, plantear problemas y enviar relaciones públicas si cree que algo podría ser mejor. <br>
-Si estás interesado en mandarme la prueba o consultarme, puedes contactarme en mi<a href="isaiezequielnunez@gmail.com"><b>email</b></a>
+Si estás interesado en mandarme la prueba o consultarme, puedes contactarme en mi <a href="isaiezequielnunez@gmail.com"><b>email</b></a>
 
 <i>Happy Coding!</i> 😊
 
